@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 5\n\n[1] 6"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nhi"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mackenzie Lindholm",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 5\n\n[1] 6"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.44976391 0.38530041 0.18878715 0.01231474 0.26093727 0.14728971\n [7] 0.60865290 0.50662883 0.92333676 0.47812549"
   }
 ]
