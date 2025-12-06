@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: bf0bb3ef-460a-4de8-b8e3-1167a0c3cf53
+      url: https://mackenzielindholm.netlify.app
