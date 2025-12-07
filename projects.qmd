@@ -1,0 +1,10 @@
+---
+title: "Projects"
+---
+
+### The Relationship between Political Party and Lethal Drone Strikes
+
+An analysis on US Drone Strikes in overseas countries, and their correlation to US political party in power.\
+
+The full report and documentation can be found at the following GitHub:\
+<https://github.com/cmhse/stats140_project_group7/tree/main>

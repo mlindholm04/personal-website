@@ -7,8 +7,11 @@ website:
     left:
       - href: index.qmd
         text: home
-      - href: about.qmd
-        text: about
+      - href: projects.qmd
+        text: projects
+        
+  page-footer:
+    right: "&copy; 2025, Mackenzie Lindholm"
 
 format:
   html:
@@ -16,7 +19,14 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
+    published-title: "last updated"
+    reference-location: document
+    code-fold: false
+    code-summary: ""
+    fontsize: 1.3em
 
 editor: visual
 
+execute: 
+  freeze: auto

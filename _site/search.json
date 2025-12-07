@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nhi"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mackenzie Lindholm",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.44976391 0.38530041 0.18878715 0.01231474 0.26093727 0.14728971\n [7] 0.60865290 0.50662883 0.92333676 0.47812549"
+    "text": "About Me\nHi! My name is Mackenzie Lindholm, and I am currently a senior at the University of California, Los Angeles (UCLA). I am anticipating graduating in June 2026 with a double degree in Statistics and Data Science as well as Cognitive Science.\nTake a look at my CV below! DOWNLOAD CV"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "About",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The Relationship between Political Party and Lethal Drone Strikes\nAn analysis on US Drone Strikes in overseas countries, and their correlation to US political party in power.\n\nThe full report and documentation can be found at the following GitHub:\nhttps://github.com/cmhse/stats140_project_group7/tree/main"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "An analysis on US Drone Strikes in overseas countries, and their correlation to US political party in power.\n\nhttps://github.com/cmhse/stats140_project_group7/tree/main"
   }
 ]

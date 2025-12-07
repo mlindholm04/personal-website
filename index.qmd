@@ -1,11 +1,24 @@
 ---
 title: "Mackenzie Lindholm"
+about: 
+  template: trestles
+  image: profile-photo.JPG
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mackenzie-lindholm/
+    - text: Email
+      url: "mailto:lindholm04@gmail.com"
+      icon: inbox-fill
+    # - text: CV
+    #   url: "cv.pdf"
+    #   icon: briefcase-fill
+
 ---
 
-This is a Quarto website.
+# About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! My name is Mackenzie Lindholm, and I am currently a senior at the University of California, Los Angeles (UCLA). I am anticipating graduating in June 2026 with a double degree in Statistics and Data Science as well as Cognitive Science. 
 
-```{r}
-1 + 1
-```
+Take a look at my CV below!
+DOWNLOAD [CV](/cv.pdf)
