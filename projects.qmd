@@ -17,11 +17,9 @@ Conducted a statistical analysis of U.S. drone strike data across Pakistan, Yeme
 The full report and documentation can be found at the following GitHub:\
 <https://github.com/cmhse/stats140_project_group7/tree/main>
 
-\![\](/140poster.pdf)
-
 ### Skin Cancer Classification Model (Kaggle)
 
-Developed multiple machine learning models to predict skin cancer risk using demographic and clinical features. After cross-validation, logistic regression achieved the best performance (accuracy: 0.605). Focused on model interpretability to understand how factors like UV exposure, skin tone, and lesion characteristics contribute to risk.
+Developed multiple machine learning models to predict skin cancer risk using demographic and clinical features. After cross-validation, logistic regression achieved the best performance (accuracy: 0.605). Focused on model interpretability to understand how factors like UV exposure, skin tone, and lesion characteristics contribute to risk of skin cancer.
 
 ### Amazon Household Predictions (Kaggle)
 
