@@ -2,9 +2,31 @@
 title: "Projects"
 ---
 
+### NSynth Neural Network Development
+
+Collaboratively developed deep learning models (MLP and CNN) to classify musical instrument families using the Magenta NSynth dataset. By combining raw audio signals with metadata features and iterating through hyperparameter tuning, our CNN achieved \~90% classification accuracy, demonstrating strong performance in audio-based prediction tasks.
+
+### Pregnancy Risk Factors
+
+Built regression models to investigate how maternal mental health and demographic factors influence pregnancy outcomes, including gestational length and NICU admission risk. Worked with real-world survey data from the ChatterBaby app, applying data cleaning, feature engineering, and careful handling of confounding variables. Identified meaningful relationships between conditions such as anxiety, OCD, and adverse birth outcomes.
+
 ### The Relationship between Political Party and Lethal Drone Strikes
 
-An analysis on US Drone Strikes in overseas countries, and their correlation to US political party in power.\
+Conducted a statistical analysis of U.S. drone strike data across Pakistan, Yemen, and Somalia to explore how political leadership and policy changes affect strike outcomes. Compared lethality and accuracy across administrations and examined the impact of the “near certainty” policy. Results suggest policy shifts can reduce lethality and improve targeting outcomes.
 
 The full report and documentation can be found at the following GitHub:\
 <https://github.com/cmhse/stats140_project_group7/tree/main>
+
+image: 140poster.pdf
+
+### Skin Cancer Classification Model (Kaggle)
+
+Developed multiple machine learning models to predict skin cancer risk using demographic and clinical features. After cross-validation, logistic regression achieved the best performance (accuracy: 0.605). Focused on model interpretability to understand how factors like UV exposure, skin tone, and lesion characteristics contribute to risk.
+
+### Amazon Household Predictions (Kaggle)
+
+Built predictive models to estimate household size based on purchasing behavior. An optimized XGBoost model delivered the strongest performance, capturing complex relationships in customer data. This project emphasized feature importance, model tuning, and balancing accuracy with computational efficiency.
+
+### Uber Pricing Algorithm Exploration
+
+Explored key factors influencing Uber ride pricing using user-reported trip data. Cleaned and validated the dataset to correct inconsistencies, then analyzed how variables such as distance, time, and demand contribute to fare estimates, providing insight into real-world pricing dynamics.

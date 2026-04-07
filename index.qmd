@@ -2,7 +2,7 @@
 title: "Mackenzie Lindholm"
 about: 
   template: trestles
-  image: profile-photo.JPG
+  image: profile_pic.jpeg
   links: 
     - icon: linkedin
       text: LinkedIn
@@ -18,7 +18,11 @@ about:
 
 # About Me
 
-Hi! My name is Mackenzie Lindholm, and I am currently a senior at the University of California, Los Angeles (UCLA). I am anticipating graduating in June 2026 with a double degree in Statistics and Data Science as well as Cognitive Science. 
+Hi! I’m Mackenzie Lindholm, a senior at the University of California, Los Angeles (UCLA) pursuing a double degree in Statistics & Data Science and Cognitive Science. I’m especially interested in applying data-driven approaches to better understand human behavior and complex real-world systems.
+
+I enjoy combining a strong technical background with communication and client-facing work, translating data insights into clear, actionable decisions for diverse audiences.
+
+I’m currently seeking full-time opportunities starting in 2026 in data science, data engineering, product management, or related roles where I can leverage both analytical and communication skills to drive impact.
 
 Take a look at my CV below!
-DOWNLOAD [CV](/cv.pdf)
+Download [CV](/Mackenzie Lindholm Resume - PW.pdf)
