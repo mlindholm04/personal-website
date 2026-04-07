@@ -17,7 +17,7 @@ Conducted a statistical analysis of U.S. drone strike data across Pakistan, Yeme
 The full report and documentation can be found at the following GitHub:\
 <https://github.com/cmhse/stats140_project_group7/tree/main>
 
-image: 140poster.pdf
+\![\](/140poster.pdf)
 
 ### Skin Cancer Classification Model (Kaggle)
 
